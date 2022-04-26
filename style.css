@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(210, 211, 211);
+}
+
+.sidebtns {
+    position: fixed;
+    top: 80px;
+    left: -22%;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+}
+
+.sidebtns:hover {
+    position: fixed;
+    left: 1px;
+}
+
+iframe {
+    height: 200px;
+}
